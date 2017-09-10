@@ -1,2 +1,4 @@
 aaaa
 new bbb
+open new store
+cccccccccccccccccccccccc
